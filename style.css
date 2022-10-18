@@ -1,5 +1,7 @@
 #carouselExampleControls {
-    width: 50%;
-    margin: auto;
+    width: 100%;
     margin-bottom: 10px;
+}
+.carousel-inner{
+    height: 450px;
 }
